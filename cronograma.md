@@ -110,11 +110,11 @@ Fontes: [src](Unidade3/src "src")
   
 ### [Aula_07](Unidade3/aulaAnotacoes.md#Aula_07 " 18-08-2025 segunda-feira ") 18-08-2025 segunda-feira
   
-Feriado: Carnaval  
+- Conteudo da Unidade 3.  
   
 ### [Aula_08](Unidade3/aulaAnotacoes.md#Aula_08 " 18-08-2025 segunda-feira ") 18-08-2025 segunda-feira
   
-Feriado: Carnaval  
+- Conteudo da Unidade 3. 
   
 ### [Aula_09](Unidade3/aulaAnotacoes.md#Aula_09 " 20-08-2025 quarta-feira ") 20-08-2025 quarta-feira
   
@@ -416,3 +416,4 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 -----------  
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->  
 Último dia para entregar os diários de classe 2025/1: 01-12-25 - 10-12-25
+
