@@ -3,7 +3,7 @@
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=47886&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 [Monitoria]: <https://www.icloud.com/numbers/0d1vcb8BP5o91bzCLfwnVv80w#Monitores_2025_1> "Monitoria"  
-[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/rdGSUBmFq2> "Prova de Suficiência (inscrição)"
+[Prova de Suficiência]: <https://dsc.furb.br/post/prova-de-sufici%C3%AAncia> "Prova de Suficiência"
 [Ambiente de Desenvolvimento Prático]: <Unidade1/IDE.md> "Ambiente de Desenvolvimento Prático"  
 [Trabalho Final]: <./TrabalhoFinal> "Trabalho Final"  
 [BeeCrowd]: <https://academic.beecrowd.com/en> "BeeCrowd"
@@ -39,7 +39,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 [Plano de Ensino]  
 [Cronograma]  
 [Monitoria]  
-[Prova de Suficiência (inscrição)]  
+[Prova de Suficiência]  
 [Ambiente de Desenvolvimento Prático]  
 [BeeCrowd]
 
@@ -65,3 +65,4 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 ## [Trabalho Final]
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
+
