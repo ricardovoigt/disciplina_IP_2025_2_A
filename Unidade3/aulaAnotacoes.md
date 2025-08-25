@@ -12,6 +12,10 @@
 A importância de fazer um código legível ...  
 ![CodigoFuncionava](imgs/CodigoFuncionava.png "CodigoFuncionava")  
 
+## Perfil do aluno  
+
+Favor responder o [formulário](<https://forms.office.com/r/iv4AWegKxn> "formulário de perfil") para que possamos conhecer melhor o seu perfil.  
+
 ## Rabiscos
 
 ![Rabiscos](aulaRabiscos.drawio.svg)
