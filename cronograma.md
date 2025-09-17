@@ -30,7 +30,7 @@
 <!-- Cronograma da planilha-->
 <!-- [@]TODO:INICIO atualizar -->
 
-# Cronograma: 2025-1 IP_E  
+# Cronograma: 2025-2 IP_A  
   
 Local: Lab_S-429  
 Dia da semana: Segundas (18:30\~22:00)  Quartas (20:20\~22:00)
@@ -424,5 +424,6 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 -----------  
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->  
 Último dia para entregar os diários de classe 2025/1: 01-12-25 - 10-12-25
+
 
 
