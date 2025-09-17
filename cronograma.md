@@ -208,7 +208,15 @@ Fontes: [src](Unidade4/src "src")
 ### [Aula_21](Unidade4/aulaAnotacoes.md#Aula_21 " 24-09-2025 quarta-feira ") 24-09-2025 quarta-feira
   
 - Revisão prova 1
-  
+
+### [Aula](Unidade4/aulaAnotacoes.md# " 29-09-2025 segunda-feira ") 29-09-2025 segunda-feira
+
+- SEMINCO - Não haverá aula. Participe do evento - https://dsc.furb.br/seminco
+
+### [Aula](Unidade4/aulaAnotacoes.md# " 01-10-2025 quarta-feira ") 01-10-2025 quarta-feira
+
+- SEMINCO - Não haverá aula. Participe do evento - https://dsc.furb.br/seminco
+
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:   06-10-2025 segunda-feira
   
 - [atividadeUri](Unidade4/atividadeUri.md "atividadeUri");  
@@ -416,4 +424,5 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 -----------  
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->  
 Último dia para entregar os diários de classe 2025/1: 01-12-25 - 10-12-25
+
 
