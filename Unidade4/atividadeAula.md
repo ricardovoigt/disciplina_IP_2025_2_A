@@ -257,9 +257,9 @@ Para resolver este problema pode se utilizar do algoritmo descrito no fluxograma
 | -------- | -------- |
 | X: 0 Y: 0 | Quadrante 0 |
 | X: 5 Y: 10 | Quadrante 1 |
-| X: -5 Y: 10 | Quadrante 2 |
+| X: 5 Y: -10 | Quadrante 2 |
 | X: -5 Y: -10 | Quadrante 3 |
-| X: 5 Y: -10 | Quadrante 4 |
+| X: -5 Y: 10 | Quadrante 4 |
 ----------
 
 ### Uni4Exe20.java
@@ -409,3 +409,4 @@ O número de horas a pagar é sempre inteiro e arredondado para cima ou para bai
 | horaChegada: 08  minChegada: 05  horaSaida: 12  minSaida: 46 | Preço cobrado = R$35,00 |
 
 ----------
+
