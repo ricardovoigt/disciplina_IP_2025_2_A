@@ -315,20 +315,17 @@ Fontes: [src](Unidade5/src "src")
 Ementa - tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
 Fontes: [src](Unidade6/src "src")  
   
-### [Aula_31](Unidade6/aulaAnotacoes.md#Aula_31 " 27-10-2025 segunda-feira ") 27-10-2025 segunda-feira
+### [Aula_31](Unidade6/aulaAnotacoes.md#Aula_31 " 27-10-2025 segunda-feira ") 27-10-2025 segunda-feira - Feriado antecipado: Dia do Servidor Público (antecipado do dia 28)
   
-  [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
+- Feriado
   
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+### [Aula_32](Unidade6/aulaAnotacoes.md#Aula_32 " 27-10-2025 segunda-feira ") 27-10-2025 segunda-feira - Feriado antecipado: Dia do Servidor Público (antecipado do dia 28)
   
-### [Aula_32](Unidade6/aulaAnotacoes.md#Aula_32 " 27-10-2025 segunda-feira ") 27-10-2025 segunda-feira
-  
-<!-- FIXME: melhorar a descrição do que é feito nos dias desta unidade -->  
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+- Feriado
   
 ### [Aula_33](Unidade6/aulaAnotacoes.md#Aula_33 " 29-10-2025 quarta-feira ") 29-10-2025 quarta-feira
+  
+[Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
   
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
@@ -424,6 +421,7 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 -----------  
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->  
 Último dia para entregar os diários de classe 2025/1: 01-12-25 - 10-12-25
+
 
 
 
